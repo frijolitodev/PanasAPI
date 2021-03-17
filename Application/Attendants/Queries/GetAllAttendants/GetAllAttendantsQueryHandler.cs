@@ -3,7 +3,10 @@ using System.Threading;
 using System.Threading.Tasks;
 using Application.Attendants.Queries.Common;
 using AutoMapper;
+using AutoMapper.QueryableExtensions;
+using Infrastructure;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace Application.Attendants.Queries.GetAllAttendants
 {

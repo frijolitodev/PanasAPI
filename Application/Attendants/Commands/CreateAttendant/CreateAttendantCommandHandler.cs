@@ -2,6 +2,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 using Domain.Attendants;
+using Infrastructure;
 using MediatR;
 
 namespace Application.Attendants.Commands.CreateAttendant
@@ -25,7 +26,7 @@ namespace Application.Attendants.Commands.CreateAttendant
             };
 
             Context.Attendants.Add(attendant);
-            await Context.SaveChangesAsync();
+            await Context.SaveChangesAsync(cancellationToken);
 
             return Unit.Value;
         }
