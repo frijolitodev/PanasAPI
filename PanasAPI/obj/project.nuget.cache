@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4RQy38qSOvbfw/4kX0HqzrX4etT71UkI0461eRuEs1CUR0XxwjPrqcRnYDLq6ZVEtIP7AhW1QJEr9AcE564gQ==",
+  "success": true,
+  "projectFilePath": "E:\\Documentos\\Workspaces\\PanasDotNet\\Oop\\PanasAPI\\PanasAPI\\PanasAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Walter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Walter\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Walter\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Walter\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Walter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Walter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
